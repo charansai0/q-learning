@@ -1,4 +1,4 @@
-![280708647-57e4cb49-70d0-4c60-876e-8f15db8633a2](https://github.com/charansai0/q-learning/assets/94296221/cd31cb40-519c-48ec-b7a2-813e83bc533a)# Q Learning Algorithm
+# Q Learning Algorithm
 
 
 ## AIM
